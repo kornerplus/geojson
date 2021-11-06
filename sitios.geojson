@@ -1,8 +1,9 @@
 {
-"features":[
-{"type":"Feature","properties":{"ID_ELEMENTO":1,"TIPO_ELEMENTO":"VALLA","ID_TIPO":1,"NOMBRE":"KR 7 # 128-11","PROVEEDOR":"EFECTIMEDIOS S.A","LOCALIDAD":"NO APLICA","DIRECCION":"KR 7 # 128-11","NUMERO_CARAS":"Dos caras","SENTIDO":"Sur-Norte","COORDENADA_X":-74.0289958971863,"COORDENADA_Y":4.70378929470074,"ID_VIA":9,"VIA":"CARRERA 7MA","VIA_ASOCIADA":"CARRERA 7MA","ID_TRAMO":28,"TRAMO":"Calle 100 y Calle 134","NUMERO_VAGONES":0,"NUMERO_ACCESOS":0,"NUMERO_ACCESOS_VEHICULOS":0,"ALCANCE":10 },"geometry":{"type":"Point","coordinates":[-74.0289958971863,4.70378929470074]}},
-{"type":"Feature","properties":{"ID_ELEMENTO":2,"TIPO_ELEMENTO":"VALLA","ID_TIPO":1,"NOMBRE":"KR 7 # 100-58","PROVEEDOR":"ORGANIZACIÒN PUBLICIDAD EXTERIOR. OPE S.A.","LOCALIDAD":"NO APLICA","DIRECCION":"KR 7 # 100-58","NUMERO_CARAS":"Dos caras","SENTIDO":"Norte-Sur","COORDENADA_X":-74.0380361996275,"COORDENADA_Y":4.68069495490822,"ID_VIA":9,"VIA":"CARRERA 7MA","VIA_ASOCIADA":"CARRERA 7MA","ID_TRAMO":28,"TRAMO":"Calle 100 y Calle 134","NUMERO_VAGONES":0,"NUMERO_ACCESOS":0,"NUMERO_ACCESOS_VEHICULOS":0,"ALCANCE":10 },"geometry":{"type":"Point","coordinates":[-74.0380361996275,4.68069495490822]}},
-{"type":"Feature","properties":{"ID_ELEMENTO":3,"TIPO_ELEMENTO":"VALLA","ID_TIPO":1,"NOMBRE":"AV. KR 7 # 108 A -23","PROVEEDOR":"LOPEZ PUBLICIDAD EXTERIOR S.A.S","LOCALIDAD":"NO APLICA","DIRECCION":"AV. KR 7 # 108 A -23","NUMERO_CARAS":"Una cara","SENTIDO":"Sur-Norte","COORDENADA_X":-74.0354133893447,"COORDENADA_Y":4.6874831717663,"ID_VIA":9,"VIA":"CARRERA 7MA","VIA_ASOCIADA":"CARRERA 7MA","ID_TRAMO":28,"TRAMO":"Calle 100 y Calle 134","NUMERO_VAGONES":0,"NUMERO_ACCESOS":0,"NUMERO_ACCESOS_VEHICULOS":0,"ALCANCE":10 },"geometry":{"type":"Point","coordinates":[-74.0354133893447,4.6874831717663]}},
-{"type":"Feature","properties":{"ID_ELEMENTO":4,"TIPO_ELEMENTO":"VALLA","ID_TIPO":1,"NOMBRE":"AK. 7 No 126 A - 13","PROVEEDOR":"URBANA S.A.S","LOCALIDAD":"NO APLICA","DIRECCION":"AK. 7 No 126 A - 13","NUMERO_CARAS":"Dos caras","SENTIDO":"Sur-Norte","COORDENADA_X":-74.0288423043012,"COORDENADA_Y":4.70150870546831,"ID_VIA":9,"VIA":"CARRERA 7MA","VIA_ASOCIADA":"CARRERA 7MA","ID_TRAMO":28,"TRAMO":"Calle 100 y Calle 134","NUMERO_VAGONES":0,"NUMERO_ACCESOS":0,"NUMERO_ACCESOS_VEHICULOS":0,"ALCANCE":10 },"geometry":{"type":"Point","coordinates":[-74.0288423043012,4.70150870546831]}},
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "ak16994521", "mag": 2.3, "time": 1507425650893, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ -151.5129, 63.1016, 0.0 ] } },
+{ "type": "Feature", "properties": { "id": "ak16994519", "mag": 1.7, "time": 1507425289659, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ -150.4048, 63.1224, 105.5 ] } },
+{ "type": "Feature", "properties": { "id": "ak16994517", "mag": 1.6, "time": 1507424832518, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ -151.3597, 63.0781, 0.0 ] } }
+  ]
 }
-]
