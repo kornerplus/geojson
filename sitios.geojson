@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": "ak16994521", "mag": 2.3, "time": 1507425650893, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ -151.5129, 63.1016, 0.0 ] } },
+{"type":"Feature","properties":{"ID_ELEMENTO":1,"TIPO_ELEMENTO":"VALLA","ID_TIPO":1,"NOMBRE":"KR 7 # 128-11","PROVEEDOR":"EFECTIMEDIOS S.A","LOCALIDAD":"NO APLICA","DIRECCION":"KR 7 # 128-11","NUMERO_CARAS":"Dos caras","SENTIDO":"Sur-Norte","COORDENADA_X":-74.0289958971863,"COORDENADA_Y":4.70378929470074,"ID_VIA":9,"VIA":"CARRERA 7MA","VIA_ASOCIADA":"CARRERA 7MA","ID_TRAMO":28,"TRAMO":"Calle 100 y Calle 134","NUMERO_VAGONES":0,"NUMERO_ACCESOS":0,"NUMERO_ACCESOS_VEHICULOS":0,"ALCANCE":10 },"geometry":{"type":"Point","coordinates":[-74.0289958971863,4.70378929470074]}},
 { "type": "Feature", "properties": { "id": "ak16994519", "mag": 1.7, "time": 1507425289659, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ -150.4048, 63.1224, 105.5 ] } },
 { "type": "Feature", "properties": { "id": "ak16994517", "mag": 1.6, "time": 1507424832518, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ -151.3597, 63.0781, 0.0 ] } }
   ]
