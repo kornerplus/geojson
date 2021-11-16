@@ -27254,7 +27254,7 @@
     "Estrato": 4
   }
 },
-  {
+ {
   "geometry": {
     "coordinates": [
       [
@@ -27476,8 +27476,8 @@
   },
   "type": "Feature",
   "properties": {
-    "Id": "",
-    "Estrato": ""
+    "Id": 4,
+    "Estrato": 4
   }
 }
   
