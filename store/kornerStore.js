@@ -4,7 +4,7 @@ mapStore = L.map("mapkornerStore").setView(
 );
 
 L.tileLayer(
-  "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw",
+  "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia29ybmVycGx1cyIsImEiOiJjbGcwejg3Y3AwemdoM2ZvaHVrZm5kaWw3In0.NfpuRQBeU0htG_nJ8NvhSQ",
   {
     maxZoom: 18,
     attribution:
